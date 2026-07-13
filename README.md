@@ -1,5 +1,1 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thegibi&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thegibi&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thegibi&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thegibi&theme=aura)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thegibi&theme=aura&utcOffset=-4)
+
